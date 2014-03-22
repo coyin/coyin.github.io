@@ -316,7 +316,7 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url("../tile-img/nucleotide.jpg");
+    background: #fff url("../tile-img/nucleotide.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); 
 	background-size: cover; }
   .tile.tile-4 .tile-inner {
@@ -344,7 +344,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #fff url("../tile-img/organ.jpg");
+    background: #fff url("../tile-img/organ.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; 
 	background-size: cover; }
